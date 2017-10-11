@@ -1,6 +1,6 @@
-#i want to create a heading 
-##and i want to create a smaller heading 
-this is my main lines 
+#i want to create a heading <br />
+##and i want to create a smaller heading <br />
+this is my main lines <br />
 this is line 2  
 this is line 3 
 and this is the final line 
